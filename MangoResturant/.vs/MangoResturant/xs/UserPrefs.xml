@@ -1,3 +1,4 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{03E2D74A-139E-4072-9105-356A7EDE9521}|Default">
+  <MonoDevelop.Ide.ItemProperties.FrontEnd.Mango.Web FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
 </Properties>
