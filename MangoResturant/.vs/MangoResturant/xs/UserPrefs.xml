@@ -1,4 +1,5 @@
-﻿<Properties StartupConfiguration="{03E2D74A-139E-4072-9105-356A7EDE9521}|Default">
-  <MonoDevelop.Ide.ItemProperties.FrontEnd.Mango.Web FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+﻿<Properties StartupConfiguration="{A3CF2B8A-2E14-414C-9262-CDE1F7E47B10}|Default">
+  <MonoDevelop.Ide.ItemProperties.Services.Mango.Services.ProductAPI FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.FrontEnd.Mango.Web PreferredExecutionTarget="/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
 </Properties>
