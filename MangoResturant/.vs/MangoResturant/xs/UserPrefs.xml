@@ -1,5 +1,40 @@
 ﻿<Properties StartupConfiguration="{A3CF2B8A-2E14-414C-9262-CDE1F7E47B10}|Default">
-  <MonoDevelop.Ide.ItemProperties.Services.Mango.Services.ProductAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.FrontEnd.Mango.Web PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.Services.ProductAPI/Models/DTOs/ResponseDTO.cs">
+    <Files>
+      <File FileName="Mango.Services.ProductAPI/Program.cs" Line="25" Column="27" />
+      <File FileName="Mango.Services.ProductAPI/DBContexts/ApplicationDBContext.cs" Line="16" Column="1" />
+      <File FileName="Mango.Services.ProductAPI/Models/Product.cs" Line="12" Column="1" />
+      <File FileName="Mango.Services.ProductAPI/Repository/IProductRepository.cs" Line="1" Column="1" />
+      <File FileName="Mango.Services.ProductAPI/Models/DTOs/ProductDTO.cs" Line="17" Column="6" />
+      <File FileName="Mango.Services.ProductAPI/Models/DTOs/ResponseDTO.cs" Line="10" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MangoResturant" expanded="True">
+            <Node name="FrontEnd" expanded="True" />
+            <Node name="Services" expanded="True">
+              <Node name="Mango.Services.ProductAPI" expanded="True">
+                <Node name="Models" expanded="True">
+                  <Node name="DTOs" expanded="True" />
+                </Node>
+                <Node name="Repository" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Services.Mango.Services.ProductAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

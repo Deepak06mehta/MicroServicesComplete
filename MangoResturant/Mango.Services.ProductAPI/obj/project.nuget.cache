@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6M2jFG4H1brYeho7VWqrgyLf4kP1wyuolSQ6UnuELVOsLrFIDrCMZxDib2US1ETGs6uW3g4LjF9vGKuxl8qUfw==",
+  "dgSpecHash": "8PlHvIQDtedbBdDsKd3QcwTyYZIU9ktSsaUAFs6Rat8AI6IanhN6KHUaSagKf+PnnS1CVvYCx6B3HaCuVEOZ7w==",
   "success": true,
   "projectFilePath": "/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Services.ProductAPI/Mango.Services.ProductAPI.csproj",
   "expectedPackageFiles": [
@@ -18,7 +18,7 @@
     "/Users/deepakmehta/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.9/microsoft.entityframeworkcore.relational.6.0.9.nupkg.sha512",
     "/Users/deepakmehta/.nuget/packages/microsoft.entityframeworkcore.sqlserver/6.0.9/microsoft.entityframeworkcore.sqlserver.6.0.9.nupkg.sha512",
     "/Users/deepakmehta/.nuget/packages/microsoft.entityframeworkcore.tools/6.0.9/microsoft.entityframeworkcore.tools.6.0.9.nupkg.sha512",
-    "/Users/deepakmehta/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/deepakmehta/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/deepakmehta/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "/Users/deepakmehta/.nuget/packages/microsoft.extensions.caching.memory/6.0.1/microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "/Users/deepakmehta/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
@@ -38,7 +38,7 @@
     "/Users/deepakmehta/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/deepakmehta/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
     "/Users/deepakmehta/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "/Users/deepakmehta/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/deepakmehta/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/deepakmehta/.nuget/packages/swashbuckle.aspnetcore.annotations/6.4.0/swashbuckle.aspnetcore.annotations.6.4.0.nupkg.sha512",
     "/Users/deepakmehta/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/deepakmehta/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
