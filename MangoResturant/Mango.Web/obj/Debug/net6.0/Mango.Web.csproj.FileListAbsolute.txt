@@ -24,3 +24,5 @@
 /Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/obj/Debug/net6.0/Mango.Web.pdb
 /Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/obj/Debug/net6.0/Mango.Web.genruntimeconfig.cache
 /Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/obj/Debug/net6.0/ref/Mango.Web.dll
+/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/obj/Debug/net6.0/Mango.Web.csproj.CopyComplete
