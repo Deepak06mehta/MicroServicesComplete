@@ -10,11 +10,13 @@
     <None Remove="Services\" />
     <None Remove="Services\IServices\" />
     <None Remove="Newtonsoft.Json" />
+    <None Remove="Views\Product\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
     <Folder Include="Services\IServices\" />
     <Folder Include="wwwroot\images\" />
+    <Folder Include="Views\Product\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
