@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "G0u4n7MpX6NgbkVil0LlINvooqhejzLAcVb0ceQRSZ8=",
+  "Hash": "BCZNrF5HCjBTTvK8xLcQEoel6fvdrshU8uve7kDB03o=",
   "Source": "Mango.Web",
   "BasePath": "_content/Mango.Web",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/obj/Debug/net6.0/scopedcss/projectbundle/Mango.Web.bundle.scp.css"
     },
     {
+      "Identity": "/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/wwwroot/.DS_Store",
+      "SourceId": "Mango.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/wwwroot/",
+      "BasePath": "_content/Mango.Web",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
       "Identity": "/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/wwwroot/css/site.css",
       "SourceId": "Mango.Web",
       "SourceType": "Discovered",
@@ -85,6 +102,40 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
+      "Identity": "/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/wwwroot/images/mango.png",
+      "SourceId": "Mango.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/wwwroot/",
+      "BasePath": "_content/Mango.Web",
+      "RelativePath": "images/mango.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/mango.png"
+    },
+    {
+      "Identity": "/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/wwwroot/images/order.PNG",
+      "SourceId": "Mango.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/wwwroot/",
+      "BasePath": "_content/Mango.Web",
+      "RelativePath": "images/order.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/order.PNG"
+    },
+    {
       "Identity": "/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/wwwroot/js/site.js",
       "SourceId": "Mango.Web",
       "SourceType": "Discovered",
@@ -100,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/site.js"
+    },
+    {
+      "Identity": "/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/wwwroot/lib/.DS_Store",
+      "SourceId": "Mango.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/wwwroot/",
+      "BasePath": "_content/Mango.Web",
+      "RelativePath": "lib/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/.DS_Store"
     },
     {
       "Identity": "/Users/deepakmehta/Projects/REPOSITORIES/MicroServicesComplete/MangoResturant/Mango.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",

@@ -1,32 +1,33 @@
-﻿<Properties StartupConfiguration="{A3CF2B8A-2E14-414C-9262-CDE1F7E47B10}|Default">
-  <MultiItemStartupConfigurations />
+﻿<Properties StartupConfiguration="{03E2D74A-139E-4072-9105-356A7EDE9521}|Default">
   <MonoDevelop.Ide.ItemProperties.Services.Mango.Services.ProductAPI PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.Services.ProductAPI/Program.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.Web/Views/Shared/_Layout.cshtml">
     <Files>
       <File FileName="Mango.Services.ProductAPI/Repository/IProductRepository.cs" Line="12" Column="6" />
       <File FileName="Mango.Services.ProductAPI/MappingConfig.cs" Line="20" Column="35" />
       <File FileName="Mango.Services.ProductAPI/Program.cs" Line="34" Column="2" />
       <File FileName="Mango.Services.ProductAPI/Repository/ProductRepository.cs" Line="29" Column="15" />
       <File FileName="Mango.Services.ProductAPI/Controllers/ProductAPIController.cs" Line="23" Column="10" />
+      <File FileName="Mango.Web/Views/Shared/_Layout.cshtml" Line="31" Column="23" />
+      <File FileName="Mango.Web/appsettings.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MangoResturant" expanded="True">
-            <Node name="FrontEnd" expanded="True" />
-            <Node name="Services" expanded="True">
-              <Node name="Mango.Services.ProductAPI" expanded="True">
-                <Node name="Dependencies" expanded="True">
-                  <Node name="PackageDependencies" expanded="True" />
+            <Node name="FrontEnd" expanded="True">
+              <Node name="Mango.Web" expanded="True">
+                <Node name="Views" expanded="True">
+                  <Node name="Shared" expanded="True" />
                 </Node>
-                <Node name="Controllers" expanded="True" />
-                <Node name="DBContexts" expanded="True" />
-                <Node name="Models" expanded="True">
-                  <Node name="DTOs" expanded="True" />
-                </Node>
-                <Node name="Repository" expanded="True" />
               </Node>
             </Node>
+            <Node name="Services" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -35,10 +36,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.FrontEnd.Mango.Web PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
