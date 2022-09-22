@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -28,6 +29,81 @@ namespace Mango.Web.Controllers
                 list = JsonConvert.DeserializeObject<List<ProductDTO>>(Convert.ToString(response.Result));
             }
             return View(list);
+        }
+
+        public async Task<IActionResult> CreateProduct()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> CreateProduct(ProductDTO productDTO)
+        {
+            if (ModelState.IsValid )
+            {
+                var response = await _productService.CreateProductAsync<ResponseDTO>(productDTO);
+                if (response != null && response.IsSuccess)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+            }
+
+            return View(productDTO);
+        }
+
+        public async Task<IActionResult> EditProduct(int productId)
+        {
+            var response = await _productService.GetProductByIDAsync<ResponseDTO>(productId);
+            if (response != null && response.IsSuccess)
+            {
+                ProductDTO selectedProduct = JsonConvert.DeserializeObject<ProductDTO>(Convert.ToString(response.Result));
+                return View(selectedProduct);
+            }
+            return NotFound();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> EditProduct(ProductDTO productDTO)
+        {
+            if (ModelState.IsValid)
+            {
+                var response = await _productService.UpdateProductAsync<ResponseDTO>(productDTO);
+                if (response != null && response.IsSuccess)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+            }
+
+            return View(productDTO);
+        }
+
+        public async Task<IActionResult> DeleteProduct(int productId)
+        {
+            var response = await _productService.GetProductByIDAsync<ResponseDTO>(productId);
+            if (response != null && response.IsSuccess)
+            {
+                ProductDTO selectedProduct = JsonConvert.DeserializeObject<ProductDTO>(Convert.ToString(response.Result));
+                return View(selectedProduct);
+            }
+            return NotFound();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteProduct(ProductDTO productDTO)
+        {
+            if (ModelState.IsValid)
+            {
+                var response = await _productService.DeleteProductAsync<ResponseDTO>(productDTO.ProductId);
+                if (response.IsSuccess)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+            }
+
+            return View(productDTO);
         }
     }
 }
